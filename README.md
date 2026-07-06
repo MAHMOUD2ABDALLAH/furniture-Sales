@@ -1,6 +1,3 @@
-<img width="100" height="70" alt="upwork" align="right" src="https://github.com/user-attachments/assets/bcf8a252-69a7-4a38-bddf-f26797b0983b" />
-
-
 # Furniture Sales Prediction
 
 This project focuses on predicting categories of furniture products using various machine learning regression models. The goal is to evaluate the performance of different models and identify the best one for this task.
@@ -66,4 +63,7 @@ The script includes a function to plot actual vs. predicted values, providing a 
 1. **No License Section**: Since this was a freelancing task, you don't need to include a license. The project is specific to the task you completed on Upwork.
 2. **Requirements File**: Ensure you include a `requirements.txt` file with the necessary libraries, as mentioned earlier.
 3. **Example Data**: If you can share sample data (or a description of the data format), it will help others understand how to use the script.
+
+<img width="100" height="100" alt="Upwork" src="https://github.com/user-attachments/assets/64f7ac75-093f-4d8b-9d7c-b86cccb9d642" />
+
 
